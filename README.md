@@ -1,5 +1,5 @@
-Enredando con **HTML**, **CSS**, **JavaScript**, **PHP** y **MySQL** unos cuantos años. 
+Enredando con **HTML**, **CSS**, **JavaScript**, **PHP** y **MySQL** unos cuantos años. A veces a pelo y otras más locas con **Symfony**, **Bootstrap**, **JQuery**, ... :man_facepalming:
 
-Unas veces a pelo y otras con frameworks que nos iban a ahorrar tiempo _(ironic mode ON)_: Bootstrap, JQuery (WTF!), Symfony, ...
+Y para  acabar la fiesta, barra libre de scripting **DOS** y **PowerShell**.
 
-Y para acabar la fiesta, batchs de DOS y PowerShell! :man_facepalming:
+Busco reinsertarme en la sociedad con **Angular**, **Node.js** y **Python** :laughing:
